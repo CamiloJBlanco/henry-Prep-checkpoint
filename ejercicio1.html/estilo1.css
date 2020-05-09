@@ -1,0 +1,21 @@
+
+div {
+    background-color: yellow;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#lista {
+    font-size: 25px;
+    color: red;
+}
+
+#Henry {
+    color: green;
+}
+
+#Imagen {
+    display: inline;
+
+}
